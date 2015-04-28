@@ -1,0 +1,1 @@
+Esse projeto tem o intuito de estudar CRUD com orientação a objetos, video aula rbtech CRUD Genérico com PHP e OOP
